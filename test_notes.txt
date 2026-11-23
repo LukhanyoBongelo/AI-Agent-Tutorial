@@ -1,0 +1,9 @@
+Client: John Smith
+Email: john.smith@example.com
+
+The client wants to invest R2 million.
+Investment horizon is 7 years.
+The client has a moderate risk appetite.
+The client wants long-term capital growth and some income.
+The proposed portfolio should have diversified exposure
+to South African and international equities.

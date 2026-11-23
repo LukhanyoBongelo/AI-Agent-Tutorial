@@ -1,0 +1,19 @@
+{
+  "introGreetTo": "client",
+  "applyModel": "balanced",
+  "goalAssessment": {
+    "clientType": "Individual",
+    "currency": "rand",
+    "portfolioModel": "balanced",
+    "rationale": "Wants to invest 'a few million, rand'. Said she's 'not a gambler' but does want it to grow."
+  },
+  "strategy": {
+    "model": "balanced",
+    "currency": "rand",
+    "rationale": "Balanced-ish feel."
+  },
+  "objective": {
+    "riskProfile": "Moderately Conservative"
+  },
+  "status": "draft"
+}
