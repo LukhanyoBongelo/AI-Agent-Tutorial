@@ -1,5 +1,5 @@
 How to run code:
-1. Activate virtual environment:
+1. Activate virtual environment on main.py terminal:
 2. python .\main.py to get AI to ask for prompt
 3. input prompt -> Enter -> type END -> Enter
 4. JSON file updates as well as generated_proposal.html
