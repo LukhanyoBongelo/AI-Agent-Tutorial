@@ -8,5 +8,5 @@ How to run code:
 
 WRITE-UP
 
-I created an AI agent that takes client summary description and creates a proposal for the portfolio manager. This is to automate the PM's workflow and reduce time spent on gathering data for clients and create portfolios from scratch.
+I created an AI agent that takes client summary description and creates a proposal for the portfolio manager. This is to automate the PM's workflow and reduce time spent on gathering data for clients and create portfolios from scratch. The structure of the code is as follows: Import: LangChain, Pydantic, OpenAI, JSON -> Retrieved OpenAI API key(which does not appear in the repo) -> LLM -> Prompt -> Set up Proposal Agent
 assumptions made included the incomplete details that I neglected for the sake of the exercise, and only 5 risk categories were accounted for. What i would do next is to account for other risks like incorrect spelling. 
